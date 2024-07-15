@@ -3,11 +3,11 @@
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.:ณัฐวัตร
+รหัส นศ.:660612144
 
-ชื่อ-สกุล :อิธิตา
+ชื่อ-สกุล :ณัฐวัตร อิธิตา
 
-GitHub Page URL :
+GitHub Page URL :https://cpe207-students-167.github.io/lab07-lntechfuse/
 
 ---
 
